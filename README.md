@@ -1,5 +1,4 @@
 # Laser-Cutting-3D-Printing
-\n
 Interactive Devices
 Lab 3: Laser Cutting and 3d Printing
 
