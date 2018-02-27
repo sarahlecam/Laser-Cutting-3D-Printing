@@ -5,9 +5,12 @@ Lab 3: Laser Cutting and 3d Printing
 
 Sarah Le Cam - sdl83
 
+
+
 3D Printing
 
 In this lab, we experimented with designing and printing a button. On my first attempt, I created a rather detailed button (Boom_Button.stl). I soon realized, however, that the printer could not accurately reflect the level of detail I was looking for. I therefore created a simpler button (S_Button.stl), which printed much more cleanly.
+
 
 Laser Cutting
 
